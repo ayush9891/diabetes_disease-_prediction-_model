@@ -9,6 +9,7 @@ This project demonstrates how data preprocessing, feature selection, and ML algo
 
 Features
 
+
 Data preprocessing & cleaning
 
 Exploratory Data Analysis (EDA)
@@ -22,6 +23,7 @@ Model evaluation with accuracy, precision, recall, F1-score, and confusion matri
 User input-based prediction system
 
  Tech Stack
+ 
 
 Python 
 
